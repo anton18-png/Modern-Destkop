@@ -173,6 +173,31 @@ runas /user:Administrator "Setup Modern Desktop.exe"
 
 ---
 
+## 🖼️ ЕСЛИ ИКОНКИ НЕ УСТАНОВИЛИСЬ
+
+<img width="800" height="565" alt="image" src="https://github.com/user-attachments/assets/fdb3094b-b603-4bd3-8ea1-0348a9cb5327" />
+
+Если иконки не применились после установки, выполните:
+
+```batch
+# Откройте командную строку (cmd) 
+# Затем выполните:
+
+cd /d C:\Modern
+start.bat
+```
+
+Или вручную:
+
+```batch
+1. Нажмите Win + R
+2. Введите: cmd
+3. Нажмите Enter
+4. Введите: cd /d C:\Modern
+5. Введите: start.bat
+6. Нажмите Enter
+```
+
 ## 📄 Лицензия
 
 MIT License
